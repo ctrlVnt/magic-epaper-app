@@ -1,6 +1,6 @@
 ---
 name: Report a bug
-about: 'Report a bug which you have noticed, to help us improve Badge-ePaper App '
+about: 'Report a bug which you have noticed, to help us improve Magic-ePaper App '
 title: ''
 labels: bug
 assignees: ''
